@@ -2,6 +2,6 @@ package app;
 
 public class Main {
   public static void main(String[] args) {
-    System.out.println("BranchA4");
+    System.out.println("BranchA4 for soft reset");
   }
 }
